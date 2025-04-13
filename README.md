@@ -5,6 +5,7 @@ To build a robust image classification system that identifies animals in images 
 This project utilizes a dataset containing 15 animal classes with images of size 224x224x3. Each class is stored in separate folders. We apply Transfer Learning with VGG16, a proven Convolutional Neural Network, using Keras and TensorFlow in Google Colab. The final model achieves high accuracy and is capable of classifying new, unseen animal images effectively.
 
 Code-https://colab.research.google.com/drive/13dJFiP555pWHeKJa2jRbwtI2ghtdYvD5
+
 Dataset
 Each folder represents one of the following animal classes:
 
