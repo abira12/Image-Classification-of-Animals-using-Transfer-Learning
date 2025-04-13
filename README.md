@@ -14,7 +14,7 @@ Horse, Kangaroo, Lion, Panda, Tiger, Zebra
 
 Images are resized to 224x224x3.
 
-✅ Technologies Used
+Technologies Used
 Python
 TensorFlow & Keras
 Google Colab
